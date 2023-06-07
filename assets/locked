@@ -1,2 +1,0 @@
-This is a file without permission to read, to test the open error.
-If no error happens, execute chmod 000 IO_files/locked
